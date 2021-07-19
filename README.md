@@ -12,7 +12,7 @@ Various parts _can*_ be recycled from the Ender 3 Pro/V2, most important ones ar
 - The MeanWell PSU.
 - The heatbed assemble.
 - The original board.
-- XYZ motors (as long as you can pull of the pulleys. An aftermarket 20mm motor is needed for the printhead extruder though).
+- XYZ motors (as long as you can pull off the pulleys. An aftermarket 20mm motor is needed for the printhead extruder though).
 - All the cables that don't go through the cable-chains (for there, silicone or PTFE cable is adviced).
 - 4010 fan for the tool cooling.
 
