@@ -29,6 +29,7 @@ Various parts _can*_ be recycled from the Ender 3 Pro/V2, most important ones ar
 
 - Ofc to Triano for his awesome design and all the valuable help, info and support.
 - To marcel#0874 for his original idea of the sticky endcaps.
+- To sdukan#9213 for his valuable help into troubleshooting the Ender 3 V2 differences, electronics (and in general)
 - To all of this awesome community of people.
 - To Voron design team for all the valuable resources and the solid base.
 
