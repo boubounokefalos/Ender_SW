@@ -4,6 +4,7 @@ This is a full conversion of the popular Ender 3 Pro/V2 to a Voron Switchwire an
 
 ![Home](1.png)
 ![Home](2.png)
+![Home](3.png)
 
 ## Info
 
