@@ -2,9 +2,9 @@
 
 This is a full conversion of the popular Ender 3 Pro/V2 to a Voron Switchwire and a collaborate work with [Triano](https://github.com/walttriano). The motivation came from [his awesome original conversion](https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire) that was used as a starting point, however almost everything was re-designed from scratch (in order to follow the Voron guidelines and aesthetics more accurately). Another factor that led to this re-design, was the need to be able to enclose this printer in a, visually, pleasant and, structurally, functional way. The ingenious design of 5x MGN12H Linear Rails - 300mm (dual Y axis rail) from Triano was preserved and the printing volume is ~220x220x220.
 
-![Home](1.png)
-![Home](2.png)
-![Home](3.png)
+![Home](Images/enclosed.png)
+![Home](Images/non_enclosed.png)
+![Home](Images/real.png)
 
 ## Info
 
