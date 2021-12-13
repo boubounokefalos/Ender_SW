@@ -19,7 +19,7 @@ Various parts _can*_ be recycled from the Ender 3 Pro/V2, most important ones ar
 - All the cables that don't go through the cable-chains (for there, silicone or PTFE cable is adviced).
 - 4010 fan for the tool cooling.
 
-*cheaping out in parts can lead into several problems, such as poor printing quality or, even worse, safety hazzard. Keep that in mind and use parts from the official Switchwire BOM.
+*cheaping out in parts can lead into several problems, such as poor printing quality or, even worse, safety hazard. Keep that in mind and use parts from the official Switchwire BOM.
 
 ## Files
 
