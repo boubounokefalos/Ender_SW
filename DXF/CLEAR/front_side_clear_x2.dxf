@@ -219,7 +219,7 @@ TABLE
   2
 LAYER
   5
-A0E
+A0D
 330
 0
 100
@@ -229,9 +229,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A0F
-330
 A0E
+330
+A0D
 100
 AcDbSymbolTableRecord
 100
@@ -247,9 +247,9 @@ CONTINUOUS
   0
 LAYER
   5
-A10
+A0F
 330
-A0E
+A0D
 100
 AcDbSymbolTableRecord
 100
@@ -265,9 +265,9 @@ CONTINUOUS
   0
 LAYER
   5
-A11
+A10
 330
-A0E
+A0D
 100
 AcDbSymbolTableRecord
 100
@@ -751,7 +751,7 @@ Shape2DView
 100
 AcDbLine
  10
--686.881
+-816.881
  20
 159.543
  30
@@ -759,7 +759,7 @@ AcDbLine
  11
 -686.881
  21
-149.543
+159.543
  31
 0
   0
@@ -775,33 +775,9 @@ Shape2DView
 100
 AcDbLine
  10
--686.881
- 20
-149.543
- 30
-0
- 11
--816.881
- 21
-149.543
- 31
-0
-  0
-LINE
-  5
-A0C
-330
-A02
-100
-AcDbEntity
-  8
-Shape2DView
-100
-AcDbLine
- 10
 -816.881
  20
-149.543
+159.543
  30
 0
  11
@@ -813,7 +789,7 @@ AcDbLine
   0
 LINE
   5
-A0D
+A0C
 330
 A02
 100
