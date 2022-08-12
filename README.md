@@ -55,3 +55,4 @@ Various parts _can*_ be recycled from the Ender 3 Pro/V2, most important ones ar
 ## Disclaimer
 
 This is a very carefuly designed build.. however mistakes could have been made so by deciding to follow this conversion, you are responsible for any possible damage done to the printer or even yourself. This is serious so keep that in mind.
+
