@@ -1,6 +1,14 @@
-# Ender 3 Pro/V2 to Switchwire Conversion Rev.2
+# Ender 3 Pro/V2 to Switchwire Conversion Release.2
 
-This is a full conversion of the popular Ender 3 Pro/V2 to a Voron Switchwire. The motivation came from [Triano](https://github.com/walttriano) and [his awesome original conversion](https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire) that served as a starting point, however almost everything was re-designed from scratch (in order to follow the Voron guidelines and aesthetics more accurately). Another factor that led to this re-design, was the need to be able to enclose this printer in a, visually, pleasant and, structurally, functional way. The ingenious design of 5x MGN12H Linear Rails - 300mm (dual Y axis rail) from Triano was preserved and the printing volume is ~220x220x220.
+This is a full conversion of the popular Ender 3 Pro/V2 to a Voron Switchwire. The motivation came from [Triano](https://github.com/walttriano) and [his awesome original conversion](https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire) that served as a starting point, however everything was re-designed from scratch (in order to follow the Voron guidelines and aesthetics more accurately). Another factor that led to this re-design, was the need to be able to enclose this printer in a, visually, pleasant and, structurally, functional way. The ingenious design of 5x MGN12H Linear Rails - 300mm (dual Y axis rail) from Triano was preserved and the printing volume is ~220x220x220.
+
+# Release 2 Update Changelog:
+
+- CAD files cleaned up.
+- Small corrections to parts.
+- Added printable deck files (still it's recommended to laser cut them though)
+- Added different .dxfs for rear black panels (in case anyone wants to cut the panels from a material that is not same on both surfaces)
+- Added the option to use the stock Ender 3 LCD screen.
 
 # Rev.2 Update Changelog:
 
@@ -42,17 +50,17 @@ Various parts _can*_ be recycled from the Ender 3 Pro/V2, most important ones ar
 - Most of the printed part files needed for this conversion, are included in this git (you will only need to get the Stealthburner print files from the [official Switchwire git](https://github.com/VoronDesign/Voron-Stealthburner) ).
 - CAD files (.f3d and .STEP) are provided, in order to help the building process, but they also serve as a BOM (in case you need to find proper screw lengths etc).
 - DXF files in order to cut your enclosure panels.
-- BOM (Soon...)
+- BOM (Sometime...)
 
 ## Credits
 
-- Ofc to Triano for his awesome design.
+- Ofc to Triano, as his design served as base.
 - To Steve (THE Steve!) for pointing out weak parts, that had to be redesigned, his tips and files and being a helpful person in general.
-- To sdukan#9213 for his valuable help into troubleshooting the Ender 3 V2 differences, electronics (and in general)
-- To all of this awesome community of people.
+- To sdukan#9213 for his valuable help into troubleshooting the Ender 3 V2 differences, electronics (and in general).
+- To all of this awesome community of people and especially the [ender_conversion_chat](https://discord.com/channels/460117602945990666/947303252372906014).
 - To Voron design team for all the valuable resources and the solid base.
 
 ## Disclaimer
 
-This is a very carefuly designed build.. however mistakes could have been made so by deciding to follow this conversion, you are responsible for any possible damage done to the printer or even yourself. This is serious so keep that in mind.
+This is a very carefuly designed build.. however mistakes could have been made. By deciding to build this conversion, you are responsible for any possible damage done to the printer or even yourself.
 
